@@ -1,0 +1,61 @@
+Set & Dimension & Type & Homotopy & Fraction & Maximum & Seconds \\ 
+box & 2 & farthest & no &     & 2.9624 & 0.802 \\ 
+box & 2 & widest & no & 1.0 & 2.8284 & 0.0291 \\ 
+box & 2 & widest & yes & 0.99 & 2.8284 & 0.129 \\ 
+ball $\cap$ orthant & 2 & farthest & no &     & 2.5994 & 0.128 \\ 
+ball $\cap$ orthant & 2 & widest & no & 0.78 & 1.0 & 0.0278 \\ 
+ball $\cap$ orthant & 2 & widest & yes & 0.51 & 1.4142 & 0.09 \\ 
+simplex & 2 & farthest & no &     & 2.5465 & 0.761 \\ 
+simplex & 2 & widest & no & 1.0 & 1.4142 & 0.0259 \\ 
+simplex & 2 & widest & yes & 0.7 & 1.4142 & 0.0906 \\ 
+L1 ball & 2 & farthest & no &     & 2.5465 & 0.154 \\ 
+L1 ball & 2 & widest & no & 1.0 & 2.0 & 0.0273 \\ 
+L1 ball & 2 & widest & yes & 0.99 & 2.0 & 0.0912 \\ 
+elastic net & 2 & farthest & no &     & 2.2883 & 0.159 \\ 
+elastic net & 2 & widest & no & 1.0 & 1.4641 & 0.0279 \\ 
+elastic net & 2 & widest & yes & 0.82 & 1.4641 & 0.112 \\ 
+box & 3 & farthest & no &     & 3.9572 & 0.0269 \\ 
+box & 3 & widest & no & 1.0 & 3.4641 & 0.0246 \\ 
+box & 3 & widest & yes & 0.99 & 3.4641 & 0.0357 \\ 
+ball $\cap$ orthant & 3 & farthest & no &     & 3.2791 & 0.0257 \\ 
+ball $\cap$ orthant & 3 & widest & no & 0.9 & 1.0 & 0.0259 \\ 
+ball $\cap$ orthant & 3 & widest & yes & 0.77 & 1.4142 & 0.0286 \\ 
+simplex & 3 & farthest & no &     & 3.0727 & 0.0248 \\ 
+simplex & 3 & widest & no & 0.64 & 1.4142 & 0.0258 \\ 
+simplex & 3 & widest & yes & 0.93 & 1.4142 & 0.0291 \\ 
+L1 ball & 3 & farthest & no &     & 3.0727 & 0.0255 \\ 
+L1 ball & 3 & widest & no & 1.0 & 2.0 & 0.025 \\ 
+L1 ball & 3 & widest & yes & 1.0 & 2.0 & 0.0296 \\ 
+elastic net & 3 & farthest & no &     & 2.8509 & 0.0574 \\ 
+elastic net & 3 & widest & no & 1.0 & 1.4641 & 0.0303 \\ 
+elastic net & 3 & widest & yes & 0.74 & 1.4641 & 0.0616 \\ 
+box & 10 & farthest & no &     & 5.6758 & 0.0283 \\ 
+box & 10 & widest & no & 1.0 & 6.3246 & 0.0314 \\ 
+box & 10 & widest & yes & 0.95 & 6.3246 & 0.0401 \\ 
+ball $\cap$ orthant & 10 & farthest & no &     & 3.6022 & 0.0268 \\ 
+ball $\cap$ orthant & 10 & widest & no & 1.0 & 1.0 & 0.0279 \\ 
+ball $\cap$ orthant & 10 & widest & yes & 1.0 & 1.4142 & 0.0396 \\ 
+simplex & 10 & farthest & no &     & 3.2937 & 0.0272 \\ 
+simplex & 10 & widest & no & 0.08 & 1.0801 & 0.0271 \\ 
+simplex & 10 & widest & yes & 0.88 & 1.4142 & 0.0327 \\ 
+L1 ball & 10 & farthest & no &     & 3.2937 & 0.0271 \\ 
+L1 ball & 10 & widest & no & 1.0 & 2.0 & 0.0272 \\ 
+L1 ball & 10 & widest & yes & 0.97 & 2.0 & 0.0363 \\ 
+elastic net & 10 & farthest & no &     & 3.1077 & 0.0415 \\ 
+elastic net & 10 & widest & no & 1.0 & 1.4641 & 0.0289 \\ 
+elastic net & 10 & widest & yes & 0.44 & 1.4641 & 0.0962 \\ 
+box & 1000 & farthest & no &     & 59.61 & 0.0515 \\ 
+box & 1000 & widest & no & 1.0 & 63.246 & 0.0914 \\ 
+box & 1000 & widest & yes & 0.01 & 63.019 & 1.11 \\ 
+ball $\cap$ orthant & 1000 & farthest & no &     & 31.962 & 0.0284 \\ 
+ball $\cap$ orthant & 1000 & widest & no & 1.0 & 1.0 & 0.0377 \\ 
+ball $\cap$ orthant & 1000 & widest & yes & 1.0 & 1.4142 & 0.209 \\ 
+simplex & 1000 & farthest & no &     & 31.325 & 0.0466 \\ 
+simplex & 1000 & widest & no & 0.02 & 1.0005 & 0.0588 \\ 
+simplex & 1000 & widest & yes & 0.02 & 1.4142 & 0.632 \\ 
+L1 ball & 1000 & farthest & no &     & 31.325 & 0.0435 \\ 
+L1 ball & 1000 & widest & no & 1.0 & 2.0 & 0.0722 \\ 
+L1 ball & 1000 & widest & yes & 0.52 & 2.0 & 0.566 \\ 
+elastic net & 1000 & farthest & no &     & 31.3 & 0.609 \\ 
+elastic net & 1000 & widest & no & 1.0 & 1.4641 & 0.29 \\ 
+elastic net & 1000 & widest & yes & 0.03 & 1.4641 & 4.2 \\ 
